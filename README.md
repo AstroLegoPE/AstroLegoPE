@@ -1,15 +1,4 @@
-<h2 align="left">Somos a equipe de robótica AstroLego! Paulista-PE</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AstroLegoPE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AstroLegoPE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/outer-wilds-ember-twin-campfire-gif-16844223823549025966"  />
+<h2 align="left">Somos a equipe de robótica AstroLego! <br>SESI-Paulista-PE</h2>
 
 ###
 
@@ -33,6 +22,14 @@
 
 ###
 
+<p align="left">Hello World!!</p>
+
+###
+
+<img align="right" height="150" src="https://lh6.googleusercontent.com/tNf-p3dyskREpF1V7-CKrLD1neE3zXgEpXRZFHboNC-Yp_d9Mpe9MHAtAdEyPU_bFUrqXVMi9gfhyca4fPzsRDUcAbW92IF3HopsmWhFIz0mxXfivgHKhNTClG-auq6PK053GqfpwwFYox7iAo9yJYo"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/astrolego_obr/" target="_blank">
@@ -48,12 +45,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AstroLegoPE/AstroLegoPE/output/snake.svg" alt="Snake animation" />
 
 ###
 
