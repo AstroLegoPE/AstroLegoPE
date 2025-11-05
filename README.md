@@ -22,11 +22,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<img align="right" height="150" src="https://lh6.googleusercontent.com/tNf-p3dyskREpF1V7-CKrLD1neE3zXgEpXRZFHboNC-Yp_d9Mpe9MHAtAdEyPU_bFUrqXVMi9gfhyca4fPzsRDUcAbW92IF3HopsmWhFIz0mxXfivgHKhNTClG-auq6PK053GqfpwwFYox7iAo9yJYo"  />
+<p align="left">Somos uma equipe de robótica competitiva fundada em 2022 do SESI-Paulista focada na modalidade de resgate da OBR (Olimpíada Brasileira de Robótica). Temos prêmiações de melhor escola privada, inovação, design entre outros...</p>
 
 ###
 
@@ -48,14 +44,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AstroLegoPE.AstroLegoPE&left_text=Visitantes!"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
 </div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AstroLegoPE.AstroLegoPE&left_text=Visitantes!"  />
 </div>
 
 ###
